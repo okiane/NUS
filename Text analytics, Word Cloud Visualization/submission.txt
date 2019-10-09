@@ -1,0 +1,12 @@
+occ words: c(hyponyms("employee"), hyponyms("worker"))
+body words: external body part, body part
+
+Things to submit:
+1. csv file generated from any dtm (like music survey data)
+2. word document summarizing your findings for miniproject
+3. R document for what you've done in miniproject
+
+file naming convention:
+yourname_yourid_dtm.csv
+yourname_yourid_mini.doc
+yourname_yourid_mini.R
