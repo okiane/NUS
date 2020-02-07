@@ -1,0 +1,13 @@
+name: nCOV
+title: nCOV
+username:
+account: okiane
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1757918
+bundleId: 2782624
+url: https://okiane.shinyapps.io/nCOV/
+when: 1581088469.30541
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: df.csv
